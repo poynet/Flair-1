@@ -1,2 +1,3 @@
 # Flair
-Flying Wheelchair Project
+
+A Flying Wheelchair Project
